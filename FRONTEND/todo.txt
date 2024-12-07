@@ -1,2 +1,0 @@
-en ticket uyn dropdown combo que tenga el nombre del proyecto y elegir
-funciono?
